@@ -1,5 +1,7 @@
 # Netflix-Stock-Profile-Analysis-2017
 
+*This project is a part of Codecademy's Data Science Career Path*
+
 In this project, you will act as a data visualization developer at Yahoo Finance! You will be helping the "Netflix Stock Profile" team visualize the Netflix stock data. In finance, a stock profile is a series of studies, visualizations, and analyses that dive into different aspects a publicly traded company's data.
 
 For the purposes of the project, you will only visualize data for the year of 2017. Specifically, you will be in charge of creating the following visualizations:
